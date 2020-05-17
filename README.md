@@ -8,6 +8,8 @@
 ![](https://img.shields.io/badge/license-AGPL3.0-red)
 
 
+--- 
+
 ### :zap: New in 1.1.2 
 
 1. CNN visualization with Class Activation Maps.
@@ -16,7 +18,8 @@
 
 3. WGAN added to GAN models.
 
-<br> 
+--- 
+
 
 ### :question: What is RADTorch
 <p style='text-align: justify;'>
