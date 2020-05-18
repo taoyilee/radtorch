@@ -1,4 +1,4 @@
-![](https://github.com/radtorch/radtorch/blob/master/docs/assets/img/welcome.png?raw=true)
+![](welcome.png?raw=true)
 
 
 ![](https://img.shields.io/badge/stable%20version-1.1.2-green)
